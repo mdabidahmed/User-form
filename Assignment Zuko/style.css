@@ -1,0 +1,17 @@
+ /* body {
+  background-color: rgb(170, 219, 241);
+} */
+
+
+.form {
+  height: 100%;
+  padding: 2rem;
+  background: rgb(240, 240, 240);
+  border-radius: 0.5rem;
+}
+.secClass {
+  height: 100%;
+  /* padding: 2rem; */
+  background: rgb(240, 240, 240);
+  border-radius: 0.5rem;
+}
